@@ -27094,7 +27094,7 @@ var _stylesCss = require("./styles.css");
     instagram: "",
     linkedIn: "vikrant-pradhan-06726a281",
     medium: "",
-    twitter: "",
+    twitter: "vikrant17",
     youTube: ""
 };
 const primaryColor = "#4E567E";
